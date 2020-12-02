@@ -1,0 +1,13 @@
+c:\users\musta\onedrive\belgeler\visual studio 2015\Projects\spotifyAdBlock\spotifyAdBlock\obj\Debug\spotifyAdBlock.csprojResolveAssemblyReference.cache
+C:\Users\musta\OneDrive\Belgeler\Visual Studio 2015\Projects\spotifyAdBlock\spotifyAdBlock\bin\Debug\Spotify Ad Blocker.exe.config
+C:\Users\musta\OneDrive\Belgeler\Visual Studio 2015\Projects\spotifyAdBlock\spotifyAdBlock\bin\Debug\Spotify Ad Blocker.exe
+C:\Users\musta\OneDrive\Belgeler\Visual Studio 2015\Projects\spotifyAdBlock\spotifyAdBlock\bin\Debug\Spotify Ad Blocker.pdb
+C:\Users\musta\OneDrive\Belgeler\Visual Studio 2015\Projects\spotifyAdBlock\spotifyAdBlock\obj\Debug\Spotify Ad Blocker.exe
+C:\Users\musta\OneDrive\Belgeler\Visual Studio 2015\Projects\spotifyAdBlock\spotifyAdBlock\obj\Debug\Spotify Ad Blocker.pdb
+C:\Users\musta\Desktop\spotifyAdBlock\spotifyAdBlock\bin\Debug\Spotify Ad Blocker.exe.config
+C:\Users\musta\Desktop\spotifyAdBlock\spotifyAdBlock\bin\Debug\Spotify Ad Blocker.exe
+C:\Users\musta\Desktop\spotifyAdBlock\spotifyAdBlock\bin\Debug\Spotify Ad Blocker.pdb
+C:\Users\musta\Desktop\spotifyAdBlock\spotifyAdBlock\obj\Debug\spotifyAdBlock.csprojAssemblyReference.cache
+C:\Users\musta\Desktop\spotifyAdBlock\spotifyAdBlock\obj\Debug\spotifyAdBlock.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\spotifyAdBlock\spotifyAdBlock\obj\Debug\Spotify Ad Blocker.exe
+C:\Users\musta\Desktop\spotifyAdBlock\spotifyAdBlock\obj\Debug\Spotify Ad Blocker.pdb
